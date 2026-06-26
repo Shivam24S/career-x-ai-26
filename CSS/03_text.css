@@ -1,10 +1,10 @@
 .text {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: cursive;
   /* font-size: 50px; */
-  font-weight: 500;
+  font-weight: 800;
   color: darkseagreen;
   font-style: italic;
-  text-align: start;
+  text-align: center;
   text-transform: capitalize;
   text-decoration: line-through;
 }
