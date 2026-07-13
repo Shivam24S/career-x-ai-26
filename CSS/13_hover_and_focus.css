@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box {
+  height: 500px;
+  width: 500px;
+  border: 2px solid black;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.box:hover {
+  background-color: brown;
+
+}
+
+.input:focus {
+  background-color: burlywood;
+  border: 1px solid black;
+}
